@@ -1,0 +1,9 @@
+.banner{
+    position: relative;
+    background-image: url(https://img.freepik.com/free-photo/luxurious-car-parked-highway-with-illuminated-headlight-sunset_181624-60607.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+
+}
